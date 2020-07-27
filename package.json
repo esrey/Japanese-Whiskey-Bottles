@@ -1,5 +1,5 @@
 {
-  "name": "gallery",
+  "name": "Japanese-Whiskey-Bottles",
   "version": "1.0.1",
   "description": "Gallery Materialize Theme",
   "main": "Gruntfile.js",
@@ -38,5 +38,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Alan Chang"
+  "author": "Roy Reyes",
+  "client": "Pedro Roncancio"
 }
